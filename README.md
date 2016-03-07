@@ -1,4 +1,4 @@
 == README
 
-ruby for elins
-made by victra
+* ruby for elins
+* made by victra
